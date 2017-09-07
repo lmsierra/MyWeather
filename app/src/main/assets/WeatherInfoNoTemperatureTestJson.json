@@ -1,0 +1,15 @@
+{
+    "clouds": "n/a",
+    "weatherCondition": "n/a",
+    "observation": "KI39 091240Z AUTO 19006KT 10SM CLR 15/08 A3011 RMK AO2",
+    "windDirection": 190,
+    "ICAO": "KI39",
+    "lng": -84.33333333333333,
+    "temperature": "",
+    "dewPoint": "8",
+    "windSpeed": "06",
+    "humidity": 62,
+    "stationName": "RICHMOND/MADISON",
+    "datetime": "2016-03-09 12:40:00",
+    "lat": 37.63333333333333
+}

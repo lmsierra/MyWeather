@@ -1,0 +1,1086 @@
+{
+    "totalResultsCount": 91,
+    "geonames": [
+        {
+            "adminCode3": "11012",
+            "adminCode2": "CA",
+            "alternateNames": [
+                {
+                    "name": "ካዲዝ",
+                    "lang": "am"
+                },
+                {
+                    "name": "Gaðes",
+                    "lang": "ang"
+                },
+                {
+                    "name": "قادس",
+                    "lang": "ar"
+                },
+                {
+                    "name": "كاديذ",
+                    "lang": "arz"
+                },
+                {
+                    "name": "Кадис",
+                    "lang": "bg"
+                },
+                {
+                    "name": "Cadis",
+                    "lang": "ca"
+                },
+                {
+                    "name": "Cádiz",
+                    "lang": "de"
+                },
+                {
+                    "name": "Κάντιθ",
+                    "lang": "el"
+                },
+                {
+                    "name": "Cadiz",
+                    "lang": "en"
+                },
+                {
+                    "name": "Kadizo",
+                    "lang": "eo"
+                },
+                {
+                    "name": "Cádiz",
+                    "lang": "es"
+                },
+                {
+                    "name": "Cadiz",
+                    "lang": "eu"
+                },
+                {
+                    "name": "Cai",
+                    "lang": "ext"
+                },
+                {
+                    "name": "کادیس",
+                    "lang": "fa"
+                },
+                {
+                    "name": "Cádiz",
+                    "lang": "fi"
+                },
+                {
+                    "name": "Cadix",
+                    "lang": "fr"
+                },
+                {
+                    "name": "Gadeira",
+                    "lang": "hbs"
+                },
+                {
+                    "name": "קדיס",
+                    "lang": "he"
+                },
+                {
+                    "name": "Cádiz",
+                    "lang": "hu"
+                },
+                {
+                    "name": "CDZ",
+                    "lang": "iata"
+                },
+                {
+                    "name": "Cádiz",
+                    "lang": "id"
+                },
+                {
+                    "name": "Cádice",
+                    "lang": "it"
+                },
+                {
+                    "name": "カディス",
+                    "lang": "ja"
+                },
+                {
+                    "name": "კადისი",
+                    "lang": "ka"
+                },
+                {
+                    "name": "카디스",
+                    "lang": "ko"
+                },
+                {
+                    "name": "Gades",
+                    "lang": "la"
+                },
+                {
+                    "name": "Kadiz",
+                    "lang": "lad"
+                },
+                {
+                    "name": "Cádiz",
+                    "lang": "lb"
+                },
+                {
+                    "name": "http://en.wikipedia.org/wiki/Cadiz",
+                    "lang": "link"
+                },
+                {
+                    "name": "Kadisas",
+                    "lang": "lt"
+                },
+                {
+                    "name": "Cádiz",
+                    "lang": "nl"
+                },
+                {
+                    "name": "Cádiz",
+                    "lang": "no"
+                },
+                {
+                    "name": "Cadis",
+                    "lang": "oc"
+                },
+                {
+                    "name": "Кадис",
+                    "lang": "os"
+                },
+                {
+                    "name": "Kadyks",
+                    "lang": "pl"
+                },
+                {
+                    "name": "کادس",
+                    "lang": "pnb"
+                },
+                {
+                    "name": "11007",
+                    "lang": "post"
+                },
+                {
+                    "name": "Cádis",
+                    "lang": "pt"
+                },
+                {
+                    "name": "Cádiz",
+                    "lang": "ro"
+                },
+                {
+                    "name": "Кадис",
+                    "lang": "ru"
+                },
+                {
+                    "name": "Cádiz",
+                    "lang": "sk"
+                },
+                {
+                    "name": "Кадиз",
+                    "lang": "sr"
+                },
+                {
+                    "name": "Cádiz",
+                    "lang": "sv"
+                },
+                {
+                    "name": "กาดิซ",
+                    "lang": "th"
+                },
+                {
+                    "name": "Cádiz",
+                    "lang": "tr"
+                },
+                {
+                    "name": "Кадіс",
+                    "lang": "uk"
+                },
+                {
+                    "name": "CAD",
+                    "lang": "unlc"
+                },
+                {
+                    "name": "Càdice",
+                    "lang": "vec"
+                },
+                {
+                    "name": "加的斯",
+                    "lang": "zh"
+                },
+                {
+                    "name": "Iungadir",
+                    "lang": "zu"
+                }
+            ],
+            "countryName": "Spain",
+            "adminCode1": "51",
+            "score": 96.21002197265625,
+            "lng": "-6.29465",
+            "adminName2": "Cadiz",
+            "fcodeName": "seat of a second-order administrative division",
+            "adminName3": "Cadiz",
+            "timezone": {
+                "dstOffset": 2,
+                "gmtOffset": 1,
+                "timeZoneId": "Europe/Madrid"
+            },
+            "adminName4": "",
+            "adminName5": "",
+            "bbox": {
+                "south": 36.48369900202433,
+                "east": -6.237272698484972,
+                "north": 36.57585647798654,
+                "west": -6.352029364503309
+            },
+            "name": "Cadiz",
+            "fcode": "PPLA2",
+            "geonameId": 2520600,
+            "asciiName": "Cadiz",
+            "lat": "36.52978",
+            "population": 126766,
+            "adminName1": "Andalusia",
+            "adminId1": "2593109",
+            "countryId": "2510769",
+            "fclName": "city, village,...",
+            "countryCode": "ES",
+            "adminId3": "6356927",
+            "adminId2": "2520597",
+            "toponymName": "Cadiz",
+            "fcl": "P",
+            "continentCode": "EU"
+        },
+        {
+            "adminCode2": "H3",
+            "alternateNames": [
+                {
+                    "name": "Cadiz Viejo",
+                    "lang": "fil"
+                },
+                {
+                    "name": "CAZ",
+                    "lang": "unlc"
+                }
+            ],
+            "countryName": "Philippines",
+            "adminCode1": "06",
+            "score": 94.41156005859375,
+            "lng": "123.288",
+            "adminName2": "Negros Occidental",
+            "fcodeName": "populated place",
+            "adminName3": "",
+            "timezone": {
+                "dstOffset": 8,
+                "gmtOffset": 8,
+                "timeZoneId": "Asia/Manila"
+            },
+            "adminName4": "",
+            "adminName5": "",
+            "bbox": {
+                "south": 10.899984486965495,
+                "east": 123.33538500746695,
+                "north": 10.993015513034505,
+                "west": 123.24061499253304
+            },
+            "name": "Cadiz",
+            "fcode": "PPL",
+            "geonameId": 1721168,
+            "asciiName": "Cadiz",
+            "lat": "10.9465",
+            "population": 129053,
+            "adminName1": "Western Visayas",
+            "adminId1": "7521304",
+            "countryId": "1694008",
+            "fclName": "city, village,...",
+            "countryCode": "PH",
+            "adminId2": "1697808",
+            "toponymName": "Cadiz",
+            "fcl": "P",
+            "continentCode": "AS"
+        },
+        {
+            "adminCode2": "CA",
+            "alternateNames": [
+                {
+                    "name": "Província de Cadis",
+                    "lang": "ca"
+                },
+                {
+                    "name": "Cádiz",
+                    "lang": "de"
+                },
+                {
+                    "name": "Cadiz",
+                    "lang": "en"
+                },
+                {
+                    "name": "Cádiz",
+                    "lang": "es"
+                },
+                {
+                    "name": "Cadiz",
+                    "lang": "eu"
+                },
+                {
+                    "name": "Cadix",
+                    "lang": "fr"
+                },
+                {
+                    "name": "Cadice",
+                    "lang": "it"
+                },
+                {
+                    "name": "カディス",
+                    "lang": "ja"
+                },
+                {
+                    "name": "http://en.wikipedia.org/wiki/Province_of_C%C3%A1diz",
+                    "lang": "link"
+                }
+            ],
+            "countryName": "Spain",
+            "adminCode1": "51",
+            "score": 57.070648193359375,
+            "lng": "-5.75",
+            "adminName2": "Cadiz",
+            "fcodeName": "second-order administrative division",
+            "adminName3": "",
+            "timezone": {
+                "dstOffset": 2,
+                "gmtOffset": 1,
+                "timeZoneId": "Europe/Madrid"
+            },
+            "adminName4": "",
+            "adminName5": "",
+            "bbox": {
+                "south": 36.0001082038563,
+                "east": -5.0867693763462,
+                "north": 37.0524452754196,
+                "west": -6.47206635177024
+            },
+            "name": "Cadiz",
+            "fcode": "ADM2",
+            "geonameId": 2520597,
+            "asciiName": "Provincia de Cadiz",
+            "lat": "36.5",
+            "population": 1230594,
+            "adminName1": "Andalusia",
+            "adminId1": "2593109",
+            "countryId": "2510769",
+            "fclName": "country, state, region,...",
+            "countryCode": "ES",
+            "adminId2": "2520597",
+            "toponymName": "Provincia de Cádiz",
+            "fcl": "A",
+            "continentCode": "EU"
+        },
+        {
+            "adminCode2": "B1",
+            "alternateNames": [
+                {
+                    "name": "http://en.wikipedia.org/wiki/Cadiz_City",
+                    "lang": "link"
+                }
+            ],
+            "countryName": "Philippines",
+            "adminCode1": "06",
+            "cc2": "PH",
+            "score": 47.40483856201172,
+            "lng": "123.3",
+            "adminName2": "Cadiz",
+            "fcodeName": "second-order administrative division",
+            "adminName3": "",
+            "timezone": {
+                "dstOffset": 8,
+                "gmtOffset": 8,
+                "timeZoneId": "Asia/Manila"
+            },
+            "adminName4": "",
+            "adminName5": "",
+            "name": "Cadiz City",
+            "fcode": "ADM2",
+            "geonameId": 1721171,
+            "asciiName": "Cadiz City",
+            "lat": "10.95",
+            "population": 0,
+            "adminName1": "Western Visayas",
+            "adminId1": "7521304",
+            "countryId": "1694008",
+            "fclName": "country, state, region,...",
+            "countryCode": "PH",
+            "adminId2": "1721171",
+            "toponymName": "Cadiz City",
+            "fcl": "A",
+            "continentCode": "AS"
+        },
+        {
+            "adminCode2": "H3",
+            "alternateNames": [
+                {
+                    "name": "Cadiz",
+                    "lang": "fil"
+                },
+                {
+                    "name": "http://en.wikipedia.org/wiki/Cadiz%2C_Negros_Occidental",
+                    "lang": "link"
+                }
+            ],
+            "countryName": "Philippines",
+            "adminCode1": "06",
+            "score": 42.24663543701172,
+            "lng": "123.3126",
+            "adminName2": "Negros Occidental",
+            "fcodeName": "populated place",
+            "adminName3": "",
+            "timezone": {
+                "dstOffset": 8,
+                "gmtOffset": 8,
+                "timeZoneId": "Asia/Manila"
+            },
+            "adminName4": "",
+            "adminName5": "",
+            "bbox": {
+                "south": 10.947406351248246,
+                "east": 123.32176090631154,
+                "north": 10.965393648751755,
+                "west": 123.30343909368847
+            },
+            "name": "Cadiz",
+            "fcode": "PPL",
+            "geonameId": 1721173,
+            "asciiName": "Cadiz",
+            "lat": "10.9564",
+            "population": 0,
+            "adminName1": "Western Visayas",
+            "adminId1": "7521304",
+            "countryId": "1694008",
+            "fclName": "city, village,...",
+            "countryCode": "PH",
+            "adminId2": "1697808",
+            "toponymName": "Cadiz",
+            "fcl": "P",
+            "continentCode": "AS"
+        },
+        {
+            "countryId": "2309096",
+            "adminCode1": "00",
+            "countryName": "Equatorial Guinea",
+            "fclName": "city, village,...",
+            "score": 37.27869415283203,
+            "countryCode": "GQ",
+            "lng": "9.59764",
+            "adminName2": "",
+            "adminName3": "",
+            "fcodeName": "populated place",
+            "adminName4": "",
+            "timezone": {
+                "dstOffset": 1,
+                "gmtOffset": 1,
+                "timeZoneId": "Africa/Malabo"
+            },
+            "toponymName": "Cádiz",
+            "adminName5": "",
+            "fcl": "P",
+            "bbox": {
+                "south": 1.267266351248573,
+                "east": 9.606638911985945,
+                "north": 1.285253648751427,
+                "west": 9.588647088014055
+            },
+            "continentCode": "AF",
+            "name": "Cádiz",
+            "fcode": "PPL",
+            "asciiName": "Cadiz",
+            "geonameId": 2309588,
+            "lat": "1.27626",
+            "adminName1": "",
+            "population": 0
+        },
+        {
+            "adminCode2": "069",
+            "alternateNames": [
+                {
+                    "name": "http://en.wikipedia.org/wiki/Cadiz%2C_Illinois",
+                    "lang": "link"
+                }
+            ],
+            "countryName": "United States",
+            "adminCode1": "IL",
+            "score": 34.20351791381836,
+            "lng": "-88.22642",
+            "adminName2": "Hardin County",
+            "fcodeName": "populated place",
+            "adminName3": "",
+            "timezone": {
+                "dstOffset": -5,
+                "gmtOffset": -6,
+                "timeZoneId": "America/Chicago"
+            },
+            "adminName4": "",
+            "adminName5": "",
+            "bbox": {
+                "south": 37.57022215124857,
+                "east": -88.21507403211064,
+                "north": 37.58820944875143,
+                "west": -88.23777336788936
+            },
+            "name": "Cadiz",
+            "fcode": "PPL",
+            "geonameId": 4234963,
+            "asciiName": "Cadiz",
+            "lat": "37.57922",
+            "population": 0,
+            "adminName1": "Illinois",
+            "adminId1": "4896861",
+            "countryId": "6252001",
+            "fclName": "city, village,...",
+            "elevation": 171,
+            "countryCode": "US",
+            "adminId2": "4240212",
+            "toponymName": "Cadiz",
+            "fcl": "P",
+            "continentCode": "NA"
+        },
+        {
+            "adminCode2": "065",
+            "alternateNames": [
+                {
+                    "name": "http://en.wikipedia.org/wiki/Cadiz%2C_Indiana",
+                    "lang": "link"
+                }
+            ],
+            "countryName": "United States",
+            "adminCode1": "IN",
+            "score": 34.20351791381836,
+            "lng": "-85.48664",
+            "adminName2": "Henry County",
+            "fcodeName": "populated place",
+            "adminName3": "",
+            "timezone": {
+                "dstOffset": -4,
+                "gmtOffset": -5,
+                "timeZoneId": "America/Indiana/Indianapolis"
+            },
+            "adminName4": "",
+            "adminName5": "",
+            "bbox": {
+                "south": 39.95053553512486,
+                "east": -85.48546768105432,
+                "north": 39.95233426487515,
+                "west": -85.48781411894568
+            },
+            "name": "Cadiz",
+            "fcode": "PPL",
+            "geonameId": 4255287,
+            "asciiName": "Cadiz",
+            "lat": "39.95143",
+            "population": 150,
+            "adminName1": "Indiana",
+            "adminId1": "4921868",
+            "countryId": "6252001",
+            "fclName": "city, village,...",
+            "elevation": 333,
+            "countryCode": "US",
+            "adminId2": "4258792",
+            "toponymName": "Cadiz",
+            "fcl": "P",
+            "continentCode": "NA"
+        },
+        {
+            "adminCode2": "071",
+            "countryName": "United States",
+            "adminCode1": "CA",
+            "score": 32.665931701660156,
+            "lng": "-115.39805",
+            "adminName2": "San Bernardino County",
+            "fcodeName": "lake",
+            "adminName3": "",
+            "timezone": {
+                "dstOffset": -7,
+                "gmtOffset": -8,
+                "timeZoneId": "America/Los_Angeles"
+            },
+            "adminName4": "",
+            "adminName5": "",
+            "name": "Cadiz Lake",
+            "fcode": "LK",
+            "geonameId": 5332522,
+            "asciiName": "Cadiz Lake",
+            "lat": "34.2958",
+            "population": 0,
+            "adminName1": "California",
+            "countryId": "6252001",
+            "adminId1": "5332921",
+            "fclName": "stream, lake, ...",
+            "elevation": 165,
+            "countryCode": "US",
+            "adminId2": "5391726",
+            "toponymName": "Cadiz Lake",
+            "fcl": "H",
+            "continentCode": "NA"
+        },
+        {
+            "adminCode2": "071",
+            "countryName": "United States",
+            "adminCode1": "CA",
+            "score": 32.665931701660156,
+            "lng": "-115.50996",
+            "adminName2": "San Bernardino County",
+            "fcodeName": "airport",
+            "adminName3": "",
+            "timezone": {
+                "dstOffset": -7,
+                "gmtOffset": -8,
+                "timeZoneId": "America/Los_Angeles"
+            },
+            "adminName4": "",
+            "adminName5": "",
+            "name": "Cadiz Airstrip",
+            "fcode": "AIRP",
+            "geonameId": 8096484,
+            "asciiName": "Cadiz Airstrip",
+            "lat": "34.51361",
+            "population": 0,
+            "adminName1": "California",
+            "countryId": "6252001",
+            "adminId1": "5332921",
+            "fclName": "spot, building, farm",
+            "elevation": 242,
+            "countryCode": "US",
+            "adminId2": "5391726",
+            "toponymName": "Cadiz Airstrip",
+            "fcl": "S",
+            "continentCode": "NA"
+        },
+        {
+            "adminCode2": "71",
+            "alternateNames": [
+                {
+                    "name": "Cadiz",
+                    "lang": "fil"
+                }
+            ],
+            "countryName": "Philippines",
+            "adminCode1": "12",
+            "score": 32.64478302001953,
+            "lng": "124.05456",
+            "adminName2": "Sultan Kudarat",
+            "fcodeName": "populated place",
+            "adminName3": "",
+            "timezone": {
+                "dstOffset": 8,
+                "gmtOffset": 8,
+                "timeZoneId": "Asia/Manila"
+            },
+            "adminName4": "",
+            "adminName5": "",
+            "bbox": {
+                "south": 6.579318351248245,
+                "east": 124.06360860017277,
+                "north": 6.597305648751755,
+                "west": 124.04550139982722
+            },
+            "name": "Cadiz",
+            "fcode": "PPL",
+            "geonameId": 7468740,
+            "asciiName": "Cadiz",
+            "lat": "6.58831",
+            "population": 0,
+            "adminName1": "Soccsksargen",
+            "adminId1": "7521298",
+            "countryId": "1694008",
+            "fclName": "city, village,...",
+            "countryCode": "PH",
+            "adminId2": "1685377",
+            "toponymName": "Cadiz",
+            "fcl": "P",
+            "continentCode": "AS"
+        },
+        {
+            "adminCode3": "11012",
+            "adminCode2": "CA",
+            "alternateNames": [
+                {
+                    "name": "Cadiz Ferry Port",
+                    "lang": "en"
+                }
+            ],
+            "countryName": "Spain",
+            "adminCode1": "51",
+            "score": 31.17023468017578,
+            "lng": "-6.28925",
+            "adminName2": "Cadiz",
+            "fcodeName": "port",
+            "adminName3": "Cadiz",
+            "timezone": {
+                "dstOffset": 2,
+                "gmtOffset": 1,
+                "timeZoneId": "Europe/Madrid"
+            },
+            "adminName4": "",
+            "adminName5": "",
+            "name": "Cadiz Ferry Port",
+            "fcode": "PRT",
+            "geonameId": 9796258,
+            "asciiName": "Cadiz Port",
+            "lat": "36.53062",
+            "population": 0,
+            "adminName1": "Andalusia",
+            "adminId1": "2593109",
+            "countryId": "2510769",
+            "fclName": "parks,area, ...",
+            "countryCode": "ES",
+            "adminId3": "6356927",
+            "adminId2": "2520597",
+            "toponymName": "Cadiz Port",
+            "fcl": "L",
+            "continentCode": "EU"
+        },
+        {
+            "adminCode2": "067",
+            "alternateNames": [
+                {
+                    "name": "http://en.wikipedia.org/wiki/Cadiz%2C_Ohio",
+                    "lang": "link"
+                },
+                {
+                    "name": "43907",
+                    "lang": "post"
+                },
+                {
+                    "name": "QAZ",
+                    "lang": "unlc"
+                }
+            ],
+            "countryName": "United States",
+            "adminCode1": "OH",
+            "score": 30.69687271118164,
+            "lng": "-80.99676",
+            "adminName2": "Harrison County",
+            "fcodeName": "seat of a second-order administrative division",
+            "adminName3": "",
+            "timezone": {
+                "dstOffset": -4,
+                "gmtOffset": -5,
+                "timeZoneId": "America/New_York"
+            },
+            "adminName4": "",
+            "adminName5": "",
+            "bbox": {
+                "south": 40.26648572998025,
+                "east": -80.98842691705264,
+                "north": 40.279204670019745,
+                "west": -81.00509868294736
+            },
+            "name": "Cadiz",
+            "fcode": "PPLA2",
+            "geonameId": 5148855,
+            "asciiName": "Cadiz",
+            "lat": "40.27285",
+            "population": 3353,
+            "adminName1": "Ohio",
+            "adminId1": "5165418",
+            "countryId": "6252001",
+            "fclName": "city, village,...",
+            "elevation": 385,
+            "countryCode": "US",
+            "adminId2": "5156975",
+            "toponymName": "Cadiz",
+            "fcl": "P",
+            "continentCode": "NA"
+        },
+        {
+            "adminCode2": "221",
+            "alternateNames": [
+                {
+                    "name": "http://en.wikipedia.org/wiki/Cadiz%2C_Kentucky",
+                    "lang": "link"
+                },
+                {
+                    "name": "42211",
+                    "lang": "post"
+                },
+                {
+                    "name": "YCZ",
+                    "lang": "unlc"
+                }
+            ],
+            "countryName": "United States",
+            "adminCode1": "KY",
+            "score": 30.69687271118164,
+            "lng": "-87.8353",
+            "adminName2": "Trigg County",
+            "fcodeName": "seat of a second-order administrative division",
+            "adminName3": "",
+            "timezone": {
+                "dstOffset": -5,
+                "gmtOffset": -6,
+                "timeZoneId": "America/Chicago"
+            },
+            "adminName4": "",
+            "adminName5": "",
+            "bbox": {
+                "south": 36.85869012998025,
+                "east": -87.82734550483269,
+                "north": 36.871409070019745,
+                "west": -87.84324449516731
+            },
+            "name": "Cadiz",
+            "fcode": "PPLA2",
+            "geonameId": 4286479,
+            "asciiName": "Cadiz",
+            "lat": "36.86505",
+            "population": 2558,
+            "adminName1": "Kentucky",
+            "adminId1": "6254925",
+            "countryId": "6252001",
+            "fclName": "city, village,...",
+            "elevation": 129,
+            "countryCode": "US",
+            "adminId2": "4311258",
+            "toponymName": "Cadiz",
+            "fcl": "P",
+            "continentCode": "NA"
+        },
+        {
+            "adminCode2": "009",
+            "countryName": "United States",
+            "adminCode1": "NY",
+            "score": 30.359546661376953,
+            "lng": "-78.46724",
+            "adminName2": "Cattaraugus County",
+            "fcodeName": "populated place",
+            "adminName3": "",
+            "timezone": {
+                "dstOffset": -4,
+                "gmtOffset": -5,
+                "timeZoneId": "America/New_York"
+            },
+            "adminName4": "",
+            "adminName5": "",
+            "bbox": {
+                "south": 42.31162685124857,
+                "east": -78.45507803495488,
+                "north": 42.329614148751425,
+                "west": -78.47940876504512
+            },
+            "name": "Cadiz",
+            "fcode": "PPL",
+            "geonameId": 5111035,
+            "asciiName": "Cadiz",
+            "lat": "42.32062",
+            "population": 0,
+            "adminName1": "New York",
+            "adminId1": "5128638",
+            "countryId": "6252001",
+            "fclName": "city, village,...",
+            "elevation": 482,
+            "countryCode": "US",
+            "adminId2": "5111846",
+            "toponymName": "Cadiz",
+            "fcl": "P",
+            "continentCode": "NA"
+        },
+        {
+            "adminCode2": "47",
+            "alternateNames": [
+                {
+                    "name": "Cadiz",
+                    "lang": "fil"
+                }
+            ],
+            "countryName": "Philippines",
+            "adminCode1": "03",
+            "score": 30.0661678314209,
+            "lng": "120.7526",
+            "adminName2": "Nueva Ecija",
+            "fcodeName": "populated place",
+            "adminName3": "",
+            "timezone": {
+                "dstOffset": 8,
+                "gmtOffset": 8,
+                "timeZoneId": "Asia/Manila"
+            },
+            "adminName4": "",
+            "adminName5": "",
+            "bbox": {
+                "south": 15.840706351248574,
+                "east": 120.76194950438503,
+                "north": 15.858693648751427,
+                "west": 120.74325049561497
+            },
+            "name": "Cadiz",
+            "fcode": "PPL",
+            "geonameId": 1721172,
+            "asciiName": "Cadiz",
+            "lat": "15.8497",
+            "population": 0,
+            "adminName1": "Central Luzon",
+            "adminId1": "7521305",
+            "countryId": "1694008",
+            "fclName": "city, village,...",
+            "countryCode": "PH",
+            "adminId2": "1697473",
+            "toponymName": "Cadiz",
+            "fcl": "P",
+            "continentCode": "AS"
+        },
+        {
+            "adminCode2": "045",
+            "countryName": "United States",
+            "adminCode1": "WI",
+            "score": 29.928077697753906,
+            "lng": "-89.77842",
+            "adminName2": "Green County",
+            "fcodeName": "administrative division",
+            "adminName3": "",
+            "timezone": {
+                "dstOffset": -5,
+                "gmtOffset": -6,
+                "timeZoneId": "America/Chicago"
+            },
+            "adminName4": "",
+            "adminName5": "",
+            "name": "Town of Cadiz",
+            "fcode": "ADMD",
+            "geonameId": 5247386,
+            "asciiName": "Town of Cadiz",
+            "lat": "42.54993",
+            "population": 0,
+            "adminName1": "Wisconsin",
+            "countryId": "6252001",
+            "adminId1": "5279468",
+            "fclName": "country, state, region,...",
+            "elevation": 276,
+            "countryCode": "US",
+            "adminId2": "5254978",
+            "toponymName": "Town of Cadiz",
+            "fcl": "A",
+            "continentCode": "NA"
+        },
+        {
+            "adminCode2": "071",
+            "alternateNames": [
+                {
+                    "name": "http://en.wikipedia.org/wiki/Cadiz%2C_California",
+                    "lang": "link"
+                },
+                {
+                    "name": "92319",
+                    "lang": "post"
+                },
+                {
+                    "name": "JCZ",
+                    "lang": "unlc"
+                }
+            ],
+            "countryName": "United States",
+            "adminCode1": "CA",
+            "score": 29.928077697753906,
+            "lng": "-115.51277",
+            "adminName2": "San Bernardino County",
+            "fcodeName": "populated place",
+            "adminName3": "",
+            "timezone": {
+                "dstOffset": -7,
+                "gmtOffset": -8,
+                "timeZoneId": "America/Los_Angeles"
+            },
+            "adminName4": "",
+            "adminName5": "",
+            "bbox": {
+                "south": 34.51100365124857,
+                "east": -115.50184945075237,
+                "north": 34.52899094875143,
+                "west": -115.52368294924763
+            },
+            "name": "Cadiz",
+            "fcode": "PPL",
+            "geonameId": 5332519,
+            "asciiName": "Cadiz",
+            "lat": "34.52",
+            "population": 0,
+            "adminName1": "California",
+            "adminId1": "5332921",
+            "countryId": "6252001",
+            "fclName": "city, village,...",
+            "elevation": 241,
+            "countryCode": "US",
+            "adminId2": "5391726",
+            "toponymName": "Cadiz",
+            "fcl": "P",
+            "continentCode": "NA"
+        },
+        {
+            "adminCode2": "065",
+            "countryName": "United States",
+            "adminCode1": "IN",
+            "score": 29.928077697753906,
+            "lng": "-85.48689",
+            "adminName2": "Henry County",
+            "fcodeName": "administrative division",
+            "adminName3": "",
+            "timezone": {
+                "dstOffset": -4,
+                "gmtOffset": -5,
+                "timeZoneId": "America/Indiana/Indianapolis"
+            },
+            "adminName4": "",
+            "adminName5": "",
+            "bbox": {
+                "south": 39.946211,
+                "east": -85.482887,
+                "north": 39.953813,
+                "west": -85.490823
+            },
+            "name": "Town of Cadiz",
+            "fcode": "ADMD",
+            "geonameId": 7164588,
+            "asciiName": "Town of Cadiz",
+            "lat": "39.95092",
+            "population": 150,
+            "adminName1": "Indiana",
+            "adminId1": "4921868",
+            "countryId": "6252001",
+            "fclName": "country, state, region,...",
+            "elevation": 332,
+            "countryCode": "US",
+            "adminId2": "4258792",
+            "toponymName": "Town of Cadiz",
+            "fcl": "A",
+            "continentCode": "NA"
+        },
+        {
+            "adminCode2": "067",
+            "countryName": "United States",
+            "adminCode1": "OH",
+            "score": 29.928077697753906,
+            "lng": "-80.99801",
+            "adminName2": "Harrison County",
+            "fcodeName": "administrative division",
+            "adminName3": "",
+            "timezone": {
+                "dstOffset": -4,
+                "gmtOffset": -5,
+                "timeZoneId": "America/New_York"
+            },
+            "adminName4": "",
+            "adminName5": "",
+            "bbox": {
+                "south": 40.233614,
+                "east": -80.971268,
+                "north": 40.295052,
+                "west": -81.034978
+            },
+            "name": "Village of Cadiz",
+            "fcode": "ADMD",
+            "geonameId": 7165285,
+            "asciiName": "Village of Cadiz",
+            "lat": "40.26438",
+            "population": 3353,
+            "adminName1": "Ohio",
+            "adminId1": "5165418",
+            "countryId": "6252001",
+            "fclName": "country, state, region,...",
+            "elevation": 356,
+            "countryCode": "US",
+            "adminId2": "5156975",
+            "toponymName": "Village of Cadiz",
+            "fcl": "A",
+            "continentCode": "NA"
+        }
+    ]
+}

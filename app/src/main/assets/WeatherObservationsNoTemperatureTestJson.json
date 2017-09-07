@@ -1,0 +1,36 @@
+{
+    "weatherObservations": [
+        {
+            "clouds": "n/a",
+            "weatherCondition": "n/a",
+            "observation": "KI39 091240Z AUTO 19006KT 10SM CLR 15/08 A3011 RMK AO2",
+            "windDirection": 190,
+            "ICAO": "KI39",
+            "lng": -84.33333333333333,
+            "temperature": "",
+            "dewPoint": "8",
+            "windSpeed": "06",
+            "humidity": 62,
+            "stationName": "RICHMOND/MADISON",
+            "datetime": "2016-03-09 12:40:00",
+            "lat": 37.63333333333333
+        },
+        {
+            "clouds": "overcast",
+            "weatherCondition": "mist",
+            "observation": "KXIH 091240Z AUTO 17013KT 2 1/2SM BR OVC012 21/20 A2969 RMK A01",
+            "windDirection": 170,
+            "ICAO": "KXIH",
+            "cloudsCode": "OVC",
+            "lng": -94.51666666666667,
+            "temperature": "",
+            "dewPoint": "20",
+            "weatherConditionCode": "BR",
+            "windSpeed": "13",
+            "humidity": 94,
+            "stationName": "HIGH IS. 179A",
+            "datetime": "2016-03-09 12:40:00",
+            "lat": 29.183333333333334
+        }
+    ]
+}

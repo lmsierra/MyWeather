@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="no_recent_searches_text">Aún no has realizado ninguna búsqueda</string>
+    <string name="recent_searches_text">Búsquedas recientes:</string>
+    <string name="city">Ciudad</string>
+    <string name="search">Buscar</string>
+    <string name="temperature">Temperatura:</string>
+    <string name="no_connection">No se ha podido establecer la conexión</string>
+    <string name="no_cities_found">No se han encontrado ciudades que coincidan con %1$s</string>
+    <string name="no_temperature">Sin resultados</string>
+    <string name="empty_search">Busque una ciudad para obtener su información meteorológica</string>
+    <string name="error_weather">Error cargando la información meteorológica</string>
+    <string name="population">Población:</string>
+    <string name="updated_date">Actualizado: %1$s</string>
+    <string name="main_activity_title">Búsqueda</string>
+    <string name="detail_activity_title">Detalle</string>
+
+</resources>
